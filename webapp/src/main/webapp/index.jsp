@@ -36,4 +36,5 @@
    <h1> Test 2 ansible artifacts </h1>
    <h1> Test 4 ansible artifacts deploy </h1>
    <h1> Test 5 ansible artifacts deploy </h1>
+   <h1> Test 6 CI/CD artifacts deploy </h1>
 </form>
